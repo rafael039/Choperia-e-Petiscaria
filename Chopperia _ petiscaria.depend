@@ -1,0 +1,160 @@
+# depslib dependency file v1.0
+1527692630 source:c:\users\luizinho\desktop\ufs\2018.1\programação ii\unidade i\projeto\chopperia & petiscaria\main.cpp
+	<iostream>
+	<time.h>
+	<conio2.h>
+	<windows.h>
+	<stdio.h>
+	<string.h>
+	<math.h>
+	"layouts.h"
+	"struct.h"
+	"controleFunc.h"
+	"telaPrincipal.h"
+	"mesas.h"
+	"operacional.h"
+
+1527376610 c:\users\luizinho\desktop\ufs\2018.1\programação ii\unidade i\projeto\chopperia & petiscaria\layouts.h
+
+1527691349 c:\users\luizinho\desktop\ufs\2018.1\programação ii\unidade i\projeto\chopperia & petiscaria\struct.h
+
+1527692903 c:\users\luizinho\desktop\ufs\2018.1\programação ii\unidade i\projeto\chopperia & petiscaria\controlefunc.h
+	<iostream>
+	<string.h>
+	<windows.h>
+	<stdio.h>
+
+1527692334 c:\users\luizinho\desktop\ufs\2018.1\programação ii\unidade i\projeto\chopperia & petiscaria\telaprincipal.h
+
+1527692525 c:\users\luizinho\desktop\ufs\2018.1\programação ii\unidade i\projeto\chopperia & petiscaria\mesas.h
+
+1526667788 c:\users\luizinho\desktop\ufs\2018.1\programação ii\unidade i\projeto\chopperia & petiscaria\garcom.h
+
+1526694236 c:\users\luizinho\desktop\ufs\2018.1\programação ii\unidade i\projeto\chopperia & petiscaria\caixa.h
+
+1527692554 c:\users\luizinho\desktop\ufs\2018.1\programação ii\unidade i\projeto\chopperia & petiscaria\operacional.h
+
+1529978859 source:c:\users\luizinho\desktop\chopperia & petiscaria-adaptações\main.cpp
+	<iostream>
+	<time.h>
+	<conio2.h>
+	<windows.h>
+	<stdio.h>
+	<string.h>
+	<math.h>
+	"layouts.h"
+	"struct.h"
+	"controleFunc.h"
+	"telaPrincipal.h"
+	"mesas.h"
+	"operacional.h"
+
+1530023542 c:\users\luizinho\desktop\chopperia & petiscaria-adaptações\layouts.h
+
+1529955142 c:\users\luizinho\desktop\chopperia & petiscaria-adaptações\struct.h
+
+1529982271 c:\users\luizinho\desktop\chopperia & petiscaria-adaptações\controlefunc.h
+	<iostream>
+	<string.h>
+	<windows.h>
+	<stdio.h>
+
+1529977310 c:\users\luizinho\desktop\chopperia & petiscaria-adaptações\telaprincipal.h
+
+1530026487 c:\users\luizinho\desktop\chopperia & petiscaria-adaptações\mesas.h
+
+1529967807 c:\users\luizinho\desktop\chopperia & petiscaria-adaptações\operacional.h
+
+1530012314 source:d:\ufs\2.2º período\programação 2\projeto i - final - atualizado - 10.0\chopperia _ petiscaria-adaptações\main.cpp
+	<iostream>
+	<time.h>
+	<conio2.h>
+	<windows.h>
+	<stdio.h>
+	<string.h>
+	<math.h>
+	"layouts.h"
+	"struct.h"
+	"controleFunc.h"
+	"telaPrincipal.h"
+	"mesas.h"
+	"operacional.h"
+
+1530012316 d:\ufs\2.2º período\programação 2\projeto i - final - atualizado - 10.0\chopperia _ petiscaria-adaptações\layouts.h
+
+1530012320 d:\ufs\2.2º período\programação 2\projeto i - final - atualizado - 10.0\chopperia _ petiscaria-adaptações\struct.h
+
+1530012316 d:\ufs\2.2º período\programação 2\projeto i - final - atualizado - 10.0\chopperia _ petiscaria-adaptações\controlefunc.h
+	<iostream>
+	<string.h>
+	<windows.h>
+	<stdio.h>
+
+1530012320 d:\ufs\2.2º período\programação 2\projeto i - final - atualizado - 10.0\chopperia _ petiscaria-adaptações\telaprincipal.h
+
+1530012318 d:\ufs\2.2º período\programação 2\projeto i - final - atualizado - 10.0\chopperia _ petiscaria-adaptações\mesas.h
+
+1530012320 d:\ufs\2.2º período\programação 2\projeto i - final - atualizado - 10.0\chopperia _ petiscaria-adaptações\operacional.h
+
+1530663362 source:c:\users\luizinho\desktop\projeto i - final - atualizado - 10.0\chopperia _ petiscaria\main.cpp
+	<iostream>
+	<time.h>
+	<conio2.h>
+	<windows.h>
+	<stdio.h>
+	<string.h>
+	<math.h>
+	"layouts.h"
+	"struct.h"
+	"controleFunc.h"
+	"telaPrincipal.h"
+	"mesas.h"
+	"operacional.h"
+
+1530660954 c:\users\luizinho\desktop\projeto i - final - atualizado - 10.0\chopperia _ petiscaria\layouts.h
+
+1530012320 c:\users\luizinho\desktop\projeto i - final - atualizado - 10.0\chopperia _ petiscaria\struct.h
+
+1530663402 c:\users\luizinho\desktop\projeto i - final - atualizado - 10.0\chopperia _ petiscaria\controlefunc.h
+	<iostream>
+	<string.h>
+	<windows.h>
+	<stdio.h>
+
+1530662694 c:\users\luizinho\desktop\projeto i - final - atualizado - 10.0\chopperia _ petiscaria\telaprincipal.h
+
+1530663362 c:\users\luizinho\desktop\projeto i - final - atualizado - 10.0\chopperia _ petiscaria\mesas.h
+
+1530663362 c:\users\luizinho\desktop\projeto i - final - atualizado - 10.0\chopperia _ petiscaria\operacional.h
+
+1530665724 source:d:\chopperia _ petiscaria\main.cpp
+	<iostream>
+	<time.h>
+	<conio2.h>
+	<windows.h>
+	<stdio.h>
+	<string.h>
+	<math.h>
+	"layouts.h"
+	"struct.h"
+	"controleFunc.h"
+	"telaPrincipal.h"
+	"mesas.h"
+	"operacional.h"
+
+1530660956 d:\chopperia _ petiscaria\layouts.h
+
+1530012320 d:\chopperia _ petiscaria\struct.h
+
+1530663404 d:\chopperia _ petiscaria\controlefunc.h
+	<iostream>
+	<string.h>
+	<windows.h>
+	<stdio.h>
+
+1530662696 d:\chopperia _ petiscaria\telaprincipal.h
+
+1530665724 d:\chopperia _ petiscaria\mesas.h
+
+1530663364 d:\chopperia _ petiscaria\operacional.h
+

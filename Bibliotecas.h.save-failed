@@ -1,0 +1,68 @@
+
+#include<iostream>
+#include "Structs.h"
+
+using namespace std;
+
+
+//----------------------------------------------------------------------
+void cadFunc(cadastro &funcionarios){
+
+      //id =1 : garçom
+      //id =2 : caixa
+      //FAZER POR REFERENCIA
+      //funcionario 1
+        strcpy(funcionarios[1].nome,"Luiz Carlos");
+        strcpy(funcionarios[1].sobrenome,"Costa Moitinho");
+        strcpy(funcionarios[1].cpf,"07462030552");
+        strcpy(funcionarios[1].cargo,"Garcom");
+        strcpy(funcionarios[1].telefone,"99 9999 9999");
+        funcionarios[1].idade =20;
+        funcionarios[1].id = 1;
+        funcionarios[1].senha=12345;
+     //funcionario 2
+        strcpy(funcionarios[2].nome,"Rafael");
+        strcpy(funcionarios[2].sobrenome,"Silveira");
+        strcpy(funcionarios[2].cpf,"12312312312");
+        strcpy(funcionarios[2].cargo,"Caixa");
+        strcpy(funcionarios[2].telefone,"99 9999 9999");
+        funcionarios[2].idade =23;
+        funcionarios[2].id = 2;
+        funcionarios[2].senha=54321;
+
+    // funcionario 3
+        strcpy(funcionarios[3].nome,"Isac");
+        strcpy(funcionarios[3].sobrenome,"Silva");
+        strcpy(funcionarios[3].cpf,"12312312313");
+        strcpy(funcionarios[3].telefone,"99 9999 9999");
+        strcpy(funcionarios[3].cargo,"Garcom");
+        funcionarios[3].idade =20;
+        funcionarios[3].id = 1;
+        funcionarios[3].senha=29876;
+
+}
+
+
+
+
+
+//-------------------------------------------------------------------------------
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
